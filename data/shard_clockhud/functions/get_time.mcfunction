@@ -1,0 +1,1 @@
+execute as @a store result score @s daytime run time query daytime
