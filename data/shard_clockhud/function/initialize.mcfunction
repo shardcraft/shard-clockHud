@@ -1,2 +1,1 @@
 scoreboard objectives add daytime dummy
-scoreboard objectives add toggleNightWarning trigger
