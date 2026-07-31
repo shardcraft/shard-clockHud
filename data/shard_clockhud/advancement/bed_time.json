@@ -1,0 +1,19 @@
+{
+  "parent": "shard_core:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:clock"
+    },
+    "title": "Bed Time",
+    "frame": "task",
+    "description": "Keep a clock on you until night time",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
